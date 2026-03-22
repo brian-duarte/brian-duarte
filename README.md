@@ -19,7 +19,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0A0A0A)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=0A0A0A)
 
-## 🚀 Portafolio de Proyectos (TripleTen)
+## 🚀 QA Projects Portfolio (TripleTen)
 ### Sprint 1: Fundamentos de Testing
 * Descripción de lo aprendido...
 
