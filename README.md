@@ -1,5 +1,17 @@
-## Hi there 👋
 
+## Hi there! 👋 Soy Brian Duarte
+
+## Sobre mí:
+* 🚀 Junior QA Engineer enfocado en la precisión y calidad del software.
+* 🛠️ Especialista en pruebas manuales y automatización con Python y Selenium.
+* 📊 Experiencia en validación de APIs y bases de datos SQL.
+* 📫 Cómo contactarme: Bduartesuarez@gmail.com
+* ⚡ Dato curioso: ¡Cinturón negro en disciplina y artes marciales!
+
+## 🛠️ QA & Testing Tech Stack
+## 🚀 Portafolio de Proyectos (TripleTen)
+### Sprint 1: Fundamentos de Testing
+* Descripción de lo aprendido...
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
