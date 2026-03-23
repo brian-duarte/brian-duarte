@@ -34,7 +34,7 @@
 ![TestNG](https://img.shields.io/badge/-TestNG-DD0031?style=flat&logo=testng&logoColor=white)
 
 ## 🚀 QA Projects Portfolio (TripleTen)
-### Sprint 1: Software Testing Fundamentals
+### [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
 ## Introduction to QA Engineering
 * <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
 * <p><strong>Requirements Analysis & Technical Documentation:</strong> Expertise in creating Test Cases and Checklists.</p>
