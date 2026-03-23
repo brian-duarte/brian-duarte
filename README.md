@@ -6,22 +6,47 @@
 * 🏦 Currently interested in the Banking & Fintech sector
 * 🔭 I’m looking to collaborate on Banking and Fintech projects, where I can apply my QA expertise to ensure data integrity, security, and seamless financial transactions.
 * 📫 Reach me: Bduartesuarez@gmail.com
-* ⚡ Fun fact: I have 9 years of high-performance gym training and 3 years in martial arts.
+* ⚡ Fun fact: I have 9 years of high-performance gym training and 2 years in martial arts.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
-<!-- Skillicons -->
-[![My Skills](https://skillicons.dev/icons?i=java,linux,py,bash,docker,figma,idea,mysql,postman,mint,pycharm,selenium,maven,html)](https://skillicons.dev)
-
-<!-- QA Tools PRO -->
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0A0A0A)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black&labelColor=0A0A0A)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0A0A0A)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=0A0A0A)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![IntelliJ IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat&logo=intellijidea)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Linux Mint](https://img.shields.io/badge/-Mint-87CF3E?style=flat&logo=linuxmint)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=black)
+![Agile](https://img.shields.io/badge/-Agile-FF6F00?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-DD0031?style=flat&logo=testng&logoColor=white)
 
 ## 🚀 QA Projects Portfolio (TripleTen)
-### Sprint 1: Fundamentos de Testing
-* Descripción de lo aprendido...
+### Sprint 1: Software Testing Fundamentals
+## Introduction to QA Engineering
+* <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
+* <p><strong>Requirements Analysis & Technical Documentation:</strong> Expertise in creating Test Cases and Checklists.</p>
+* <p><strong>Bug Reporting:</strong> Identification, documentation, and lifecycle management of software defects.</p>
+
+<p><strong>Technologies:</strong> Documentation, Google Docs, Agile Methodologies (Scrum).</p>
+ 
+
+
+
+
+
 
 
 
