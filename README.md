@@ -33,7 +33,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-DD0031?style=flat&logo=testng&logoColor=white)
 
-##  <h2> 🚀 QA Projects Portfolio (TripleTen) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="32px"></h2>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio (TripleTen) 
 ### [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
 ## Introduction to QA Engineering
 * <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
