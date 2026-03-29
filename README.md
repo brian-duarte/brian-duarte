@@ -47,15 +47,15 @@
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio (TripleTen) 
 ### [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals) 📖
-## Introduction to QA Engineering
+### Introduction to QA Engineering
 * <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
 * <p><strong>Requirements Analysis & Technical Documentation:</strong> Expertise in creating Test Cases and Checklists.</p>
 * <p><strong>Bug Reporting:</strong> Identification, documentation, and lifecycle management of software defects.</p>
 <p><strong>Technologies:</strong> Documentation, Google Docs, Agile Methodologies (Scrum).</p>
 
-### Sprint 2: Test Design 🧩
-
-## Methodologies and Technical Documentation
+##
+### [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design/blob/main/README.md) 🧩
+### Methodologies and Technical Documentation
 
 * <p><strong>Analysis and Optimization:</strong> Application of Equivalence Class Partitioning and Boundary Value Analysis techniques to reduce the number of test cases without losing coverage.
 * <p><strong>Testing Strategies:</strong> Creation of positive and negative test cases to validate both expected behavior and the system’s error handling.
