@@ -8,7 +8,7 @@
 * 📫 Reach me: Bduartesuarez@gmail.com
 * ⚡ Fun fact: I have 9 years of high-performance gym training and 2 years in martial arts.
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
+ <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -33,7 +33,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-DD0031?style=flat&logo=testng&logoColor=white)
 
-## 🚀 QA Projects Portfolio (TripleTen)
+##  <h2> 🚀 QA Projects Portfolio (TripleTen) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="32px"></h2>
 ### [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
 ## Introduction to QA Engineering
 * <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
