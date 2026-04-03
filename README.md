@@ -66,7 +66,7 @@
 <p><strong>Technologies:</strong> Google Sheets, Draw.io, Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis), Test Documentation
 
 ##
-### 🧪 Sprint 3: Web Application Testing
+### [🧪 Sprint 3: Web Application Testing](https://github.com/antiocovaldez-crypto/qa-project-3-pruebas-de-aplicaciones-web)
 Comprehensive testing and architecture validation in modern web applications.
 
 * <p><strong>Structure and Architecture:</strong> Analysis of client-server architecture and validation of HTTP requests/responses using DevTools. Management of cookies, local storage, and cache.
@@ -77,7 +77,7 @@ Comprehensive testing and architecture validation in modern web applications.
 
 * <p><strong>Responsive Design:</strong> Validation of mobile and adaptive versions, ensuring proper display across various devices.
 
-* <p><strong>Advanced Test Design:</strong> Application of black-box testing techniques such as Equivalence Classes, Boundary Values, Decision Tables, and **Pairwise Testing.**
+* **Diseño de Pruebas Avanzado:** Aplicación de técnicas de caja negra como Clases de Equivalencia, Valores Límite, Tablas de Decisión y **Pairwise Testing**.
 
 **Technologies:** Chrome DevTools, Jira, Figma, Manual Testing, HTTP Protocol.
 
