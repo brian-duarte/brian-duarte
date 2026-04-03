@@ -66,7 +66,7 @@
 <p><strong>Technologies:</strong> Google Sheets, Draw.io, Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis), Test Documentation
 
 ##
-### [🧪 Sprint 3: Web Application Testing](https://github.com/antiocovaldez-crypto/qa-project-3-pruebas-de-aplicaciones-web)
+### [🧪 Sprint 3: Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
 Comprehensive testing and architecture validation in modern web applications.
 
 * <p><strong>Structure and Architecture:</strong> Analysis of client-server architecture and validation of HTTP requests/responses using DevTools. Management of cookies, local storage, and cache.
