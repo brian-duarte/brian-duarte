@@ -77,7 +77,7 @@ Comprehensive testing and architecture validation in modern web applications.
 
 * <p><strong>Responsive Design:</strong> Validation of mobile and adaptive versions, ensuring proper display across various devices.
 
-* **Diseño de Pruebas Avanzado:** Aplicación de técnicas de caja negra como Clases de Equivalencia, Valores Límite, Tablas de Decisión y **Pairwise Testing**.
+* **Advanced Test Design:** Application of black-box testing techniques such as Equivalence Classes, Boundary Values, Decision Tables, and **Pairwise Testing.**
 
 **Technologies:** Chrome DevTools, Jira, Figma, Manual Testing, HTTP Protocol.
 
