@@ -57,13 +57,29 @@
 ### [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design/blob/main/README.md) 🧩
 ### Methodologies and Technical Documentation
 
-* <p><strong>Analysis and Optimization:</strong> Application of Equivalence Class Partitioning and Boundary Value Analysis techniques to reduce the number of test cases without losing coverage.
+* <p><strong>Analysis and Optimization:</strong> Application of Equivalence Class and Boundary Value Analysis techniques to reduce the number of test cases without losing coverage.
 * <p><strong>Testing Strategies:</strong> Creation of positive and negative test cases to validate both expected behavior and the system’s error handling.
 * <p><strong>Technical Documentation:</strong> Structuring Test Cases and Checklists following best practices in written communication.
 * <p><strong>Requirements Visualization:</strong> Use of Mind Maps and Flowcharts to identify test objects and user flows.
 
 
 <p><strong>Technologies:</strong> Google Sheets, Draw.io, Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis), Test Documentation
+
+##
+### 🧪 Sprint 3: Web Application Testing
+Comprehensive testing and architecture validation in modern web applications.
+
+* <p><strong>Structure and Architecture:</strong> Analysis of client-server architecture and validation of HTTP requests/responses using DevTools. Management of cookies, local storage, and cache.
+
+* <p><strong>User Interface (UI):</strong> Testing of common components and forms using Figma as a reference to ensure design fidelity.
+
+* <p><strong>Cross-Platform Testing:</strong> Strategic selection of environments, operating systems, and browsers to ensure full compatibility.
+
+* <p><strong>Responsive Design:</strong> Validation of mobile and adaptive versions, ensuring proper display across various devices.
+
+* <p><strong>Advanced Test Design:</strong> Application of black-box testing techniques such as Equivalence Classes, Boundary Values, Decision Tables, and **Pairwise Testing.**
+
+**Technologies:** Chrome DevTools, Jira, Figma, Manual Testing, HTTP Protocol.
 
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
