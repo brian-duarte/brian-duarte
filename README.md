@@ -61,35 +61,37 @@
 
 <br>
 
+---
+<br>
 
-##
-### [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design/blob/main/README.md) 🧩
-### Methodologies and Technical Documentation
+### 🧩 [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design)
+> **Methodologies and Technical Documentation**
 
-* <p><strong>Analysis and Optimization:</strong> Application of Equivalence Class and Boundary Value Analysis techniques to reduce the number of test cases without losing coverage.
-* <p><strong>Testing Strategies:</strong> Creation of positive and negative test cases to validate both expected behavior and the system’s error handling.
-* <p><strong>Technical Documentation:</strong> Structuring Test Cases and Checklists following best practices in written communication.
-* <p><strong>Requirements Visualization:</strong> Use of Mind Maps and Flowcharts to identify test objects and user flows.
+* **Analysis and Optimization:** Application of Equivalence Class and Boundary Value Analysis techniques to optimize coverage.
+* **Testing Strategies:** Creation of positive and negative test cases to validate system error handling.
+* **Technical Documentation:** Structuring Test Cases and Checklists following professional communication standards.
+* **Requirements Visualization:** Use of Mind Maps and Flowcharts to identify test objects and user flows.
 
+**🛠️ Technologies:** `Google Sheets` `Draw.io` `Equivalence Partitioning` `Boundary Value Analysis` `Test Documentation`
 
-<p><strong>Technologies:</strong> Google Sheets, Draw.io, Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis), Test Documentation
+<br>
 
+---
 
+<br>
 
-### [🧪 Sprint 3: Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
-Comprehensive testing and architecture validation in modern web applications.
+### 🧪 [Sprint 3: Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
+> **Comprehensive testing and architecture validation in modern web applications.**
 
-* <p><strong>Structure and Architecture:</strong> Analysis of client-server architecture and validation of HTTP requests/responses using DevTools. Management of cookies, local storage, and cache.
+* **Structure and Architecture:** Client-server analysis and validation of HTTP requests/responses, cookies, and cache via DevTools.
+* **User Interface (UI):** Component testing and form validation using Figma as a technical reference.
+* **Cross-Platform & Responsive:** Strategic environment selection and validation of mobile/adaptive versions for full compatibility.
+* **Advanced Test Design:** Application of black-box techniques: Decision Tables and **Pairwise Testing.**
 
-* <p><strong>User Interface (UI):</strong> Testing of common components and forms using Figma as a reference to ensure design fidelity.
+**🚀 Technologies:** `Chrome DevTools` `Jira` `Figma` `Manual Testing` `HTTP Protocol` `Pairwise Testing`
 
-* <p><strong>Cross-Platform Testing:</strong> Strategic selection of environments, operating systems, and browsers to ensure full compatibility.
+<br>
 
-* <p><strong>Responsive Design:</strong> Validation of mobile and adaptive versions, ensuring proper display across various devices.
-
-* **Advanced Test Design:** Application of black-box testing techniques such as Equivalence Classes, Boundary Values, Decision Tables, and **Pairwise Testing.**
-
-**Technologies:** Chrome DevTools, Jira, Figma, Manual Testing, HTTP Protocol.
 
 
 
