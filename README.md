@@ -45,13 +45,22 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="68" />
 </p>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio (TripleTen) 
-### [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals) 📖
-### Introduction to QA Engineering
-* <p><strong>Software Development Life Cycle (SDLC):</strong> Understanding the end-to-end process of software creation.</p>
-* <p><strong>Requirements Analysis & Technical Documentation:</strong> Expertise in creating Test Cases and Checklists.</p>
-* <p><strong>Bug Reporting:</strong> Identification, documentation, and lifecycle management of software defects.</p>
-<p><strong>Technologies:</strong> Documentation, Google Docs, Agile Methodologies (Scrum).</p>
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio (TripleTen) 
+
+---
+<br>
+
+### 📖 [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
+> **Introduction to QA Engineering**
+
+* **SDLC:** Understanding the end-to-end process of software creation.
+* **Requirements Analysis:** Expertise in creating Test Cases and Checklists.
+* **Bug Reporting:** Identification, documentation, and lifecycle management.
+
+**🛠️ Technologies:** `Google Docs` `Agile Methodologies (Scrum)` `Technical Writing` `Documentation`
+
+<br>
+
 
 ##
 ### [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design/blob/main/README.md) 🧩
@@ -65,7 +74,8 @@
 
 <p><strong>Technologies:</strong> Google Sheets, Draw.io, Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis), Test Documentation
 
-##
+
+
 ### [🧪 Sprint 3: Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
 Comprehensive testing and architecture validation in modern web applications.
 
@@ -80,6 +90,10 @@ Comprehensive testing and architecture validation in modern web applications.
 * **Advanced Test Design:** Application of black-box testing techniques such as Equivalence Classes, Boundary Values, Decision Tables, and **Pairwise Testing.**
 
 **Technologies:** Chrome DevTools, Jira, Figma, Manual Testing, HTTP Protocol.
+
+
+
+
 
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
