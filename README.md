@@ -67,11 +67,11 @@ This project focused on the fundamental principles of software quality assurance
 
 ### 🧩 [Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design)
 > **Methodologies and Technical Documentation**
+> This project focused on architecting a comprehensive test strategy, transforming business requirements into an optimized test suite. I employed test design techniques to maximize software coverage, ensuring that critical user flows and business rules were validated through rigorous, visually structured technical documentation.
 
 * **Analysis and Optimization:** Application of Equivalence Class and Boundary Value Analysis techniques to optimize coverage.
-* **Testing Strategies:** Creation of positive and negative test cases to validate system error handling.
 * **Technical Documentation:** Structuring Test Cases and Checklists following professional communication standards.
-* **Requirements Visualization:** Use of Mind Maps and Flowcharts to identify test objects and user flows.
+* **Requirements Visualization:** Developed comprehensive Mind Maps and Flowcharts to define test objects and visualize end-to-end user journeys.
 
 **🛠️ Technologies:** `Google Sheets` `Draw.io` `Equivalence Partitioning` `Boundary Value Analysis` `Test Documentation`
 
