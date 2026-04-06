@@ -52,9 +52,10 @@
 
 ### 📖 [Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
 > **Introduction to QA Engineering**
+This project focused on the fundamental principles of software quality assurance, emphasizing requirements analysis to identify potential gaps early in the software development lifecycle—ensuring that each functionality meets both technical standards and user expectations through proper documentation and defect tracking
 
-* **SDLC:** Understanding the end-to-end process of software creation.
-* **Requirements Analysis:** Expertise in creating Test Cases and Checklists.
+* **SDLC:** End-to-End Software Development Process Analysis
+* **Test Execution & Bug Reporting:** Design and execution of 24 test cases, identifying a 29% defect rate (7 defects total). Of these, 4 were classified as Critical.
 * **Bug Reporting:** Identification, documentation, and lifecycle management.
 
 **🛠️ Technologies:** `Google Docs` `Agile Methodologies (Scrum)` `Technical Writing` `Documentation`
