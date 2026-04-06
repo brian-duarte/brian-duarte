@@ -50,7 +50,7 @@
 ---
 <br>
 
-### 📖 [Sprint 1: Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
+### 📖 [Software Testing Fundamentals](https://github.com/brian-duarte/Qa-Project-1-Software-Testing-Fundamentals)
 > **Introduction to QA Engineering**
 
 * **SDLC:** Understanding the end-to-end process of software creation.
@@ -64,7 +64,7 @@
 ---
 <br>
 
-### 🧩 [Sprint 2: Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design)
+### 🧩 [Test Design](https://github.com/brian-duarte/Qa-Project-2-Test-Design)
 > **Methodologies and Technical Documentation**
 
 * **Analysis and Optimization:** Application of Equivalence Class and Boundary Value Analysis techniques to optimize coverage.
@@ -80,7 +80,7 @@
 
 <br>
 
-### 🧪 [Sprint 3: Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
+### 🧪 [Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
 > **Comprehensive testing and architecture validation in modern web applications.**
 
 * **Structure and Architecture:** Client-server analysis and validation of HTTP requests/responses, cookies, and cache via DevTools.
@@ -92,7 +92,11 @@
 
 <br>
 
+---
 
+<br>
+
+### API Testing
 
 
 
