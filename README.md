@@ -99,11 +99,24 @@ This project focused on the fundamental principles of software quality assurance
 
 <br>
 
+<br>
 
+### 📡 [API Testing & Automation]()
+> **Validation of backend services and RESTful architectures focused on data integrity and system integration.**
+> This project involved a rigorous technical audit of backend services. 
+> I performed comprehensive API testing to validate communication between the client and server, ensuring that data exchange follows strict REST protocols and business logic requirements. This approach enabled the identification of critical integration flaws through detailed log analysis and database verification, ensuring overall system reliability and traceability.
 
-### API Testing
+* **API Fundamentals & REST:** Deep understanding of the API's role in application architecture, working with JSON data structures and RESTful principles.
+* **Advanced Postman Execution:** Mastery of HTTP requests (GET, POST, PUT, DELETE), environment variable configuration, and automated collection runs.
+* **Database & Log Analysis:** Verification of backend interactions through database queries and system log technical analysis to ensure data persistence.
+* **Rigorous Test Design:** Application of Equivalence Partitioning and Boundary Value Analysis specifically for API inputs, designing both positive and negative scenarios.
+* **Defect Documentation:** Creation of specialized API bug reports, including cURL requests, payloads, and response headers for efficient developer debugging.
 
+**🚀 Technologies:** `Postman` `REST API` `JSON` `HTTP Protocol` `cURL` `API Test Design`
 
+<br>
+
+---
 
 
 <!--
