@@ -82,7 +82,9 @@ This project focused on the fundamental principles of software quality assurance
 <br>
 
 ### 🧪 [Web Application Testing](https://github.com/brian-duarte/Qa-Project-3-Web-Application-Testing)
-> **Comprehensive testing and architecture validation in modern web applications.**
+> **Technical validation and architecture-focused testing in modern web applications.**
+> This project focused on a deep technical validation of the "Urban Routes" platform.
+> I analyzed and validated client-server interactions and application behavior across multiple environments using browser developer tools and structured test design methodologies. This effort resulted in the identification of 33 integration defects, 87% of which were high severity, uncovering a 44% failure rate in critical modules and driving improvements in system reliability and key user flows.
 
 * **Structure and Architecture:** Client-server analysis and validation of HTTP requests/responses, cookies, and cache via DevTools.
 * **User Interface (UI):** Component testing and form validation using Figma as a technical reference.
@@ -96,6 +98,8 @@ This project focused on the fundamental principles of software quality assurance
 ---
 
 <br>
+
+
 
 ### API Testing
 
