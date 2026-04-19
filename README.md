@@ -101,7 +101,7 @@ This project focused on the fundamental principles of software quality assurance
 
 <br>
 
-### 📡 [API Testing & Automation]()
+### 📡 [API Testing](https://github.com/brian-duarte/Qa-Project-4-API-Testing)
 > **Validation of backend services and RESTful architectures focused on data integrity and system integration.**
 >Performed a backend API audit that uncovered critical failures in product kit validation, preventing potential financial inconsistencies and order processing errors before release.
 >Executed 110 structured test cases using Equivalence Partitioning and Boundary Value Analysis, revealing a 36.4% failure rate in key transactional flows.
