@@ -107,12 +107,11 @@ This project focused on the fundamental principles of software quality assurance
 >Executed 110 structured test cases using Equivalence Partitioning and Boundary Value Analysis, revealing a 36.4% failure rate in key transactional flows.
 Identified defects that allowed invalid configurations (0 and 31 products), directly violating business rules and compromising data integrity.
 
-* **API Fundamentals & REST:** Deep understanding of the API's role in application architecture, working with JSON data structures and RESTful principles.
-* **Advanced Postman Execution:** Mastery of HTTP requests (GET, POST, PUT, DELETE), environment variable configuration, and automated collection runs.
-* **Database & Log Analysis:** Verification of backend interactions through database queries and system log technical analysis to ensure data persistence.
-* **Rigorous Test Design:** Application of Equivalence Partitioning and Boundary Value Analysis specifically for API inputs, designing both positive and negative scenarios.
-* **Defect Documentation:** Creation of specialized API bug reports, including cURL requests, payloads, and response headers for efficient developer debugging.
-
+* **API Validation & REST:**  Validated RESTful endpoints ensuring correct data exchange, HTTP status codes, and enforcement of business rules across backend services.
+* **Postman Test Execution:** Designed and executed API requests (GET, POST, PUT, DELETE) using Postman, managing environments.
+* **Test Design Strategy:** Designed structured test cases using Equivalence Partitioning and Boundary Value Analysis, uncovering defects in edge cases and invalid input handling.
+* **Defect Reporting & Debugging Support:** Documented high-quality bug reports including cURL commands, payloads, and response evidence, accelerating issue reproduction and resolution by developers.
+  
 **🚀 Technologies:** `Postman` `REST API` `JSON` `HTTP Protocol` `cURL` `API Test Design`
 
 <br>
