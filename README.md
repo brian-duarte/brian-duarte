@@ -105,7 +105,7 @@ This project focused on the fundamental principles of software quality assurance
 > **Validation of backend services and RESTful architectures focused on data integrity and system integration.**
 >Performed a backend API audit that uncovered critical failures in product kit validation, preventing potential financial inconsistencies and order processing errors before release.
 >Executed 110 structured test cases using Equivalence Partitioning and Boundary Value Analysis, revealing a 36.4% failure rate in key transactional flows.
-Identified defects that allowed invalid configurations (0 and 31 products), directly violating business rules and compromising data integrity.
+Identified defects that allowed invalid configurations, directly violating business rules and compromising data integrity.
 
 * **API Validation & REST:**  Validated RESTful endpoints ensuring correct data exchange, HTTP status codes, and enforcement of business rules across backend services.
 * **Postman Test Execution:** Designed and executed API requests (GET, POST, PUT, DELETE) using Postman, managing environments.
