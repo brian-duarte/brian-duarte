@@ -118,6 +118,20 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 ---
 
+<br>
+
+### 📱 [Moblie App Testing]()
+> **Impact:** Executed **180 comprehensive test cases,** identifying a **13.3% failure rate** in critical flows. Evaluated session stability and user retention risks to ensure a high-quality pre-release state.
+
+* **Mobile Resilience:** Validated application behavior through Interruption Testing (calls, low battery, multitasking) and network transitions (WiFi/5G/Airplane Mode) to ensure data integrity in real-world scenarios.
+* **User Flow Validation:** Performed E2E testing from pickup selection to order completion, verifying UI consistency and business logic across emulators and physical devices.
+* **Defect Management:** Orchestrated technical documentation in Jira with environment logs and multimedia evidence, significantly reducing debugging and resolution turnaround times.
+
+
+🚀 **Technologies:** `Android Studio` `Jira` `Interruption Testing` `Network Resiliency` ` Mobile QA`
+
+
+
 
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
