@@ -120,7 +120,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### 📱 [Mobile App Testing]()
+### 📱 [Mobile App Testing](https://github.com/brian-duarte/Qa-Project-5-Mobile-Testing-Urban-Lunch/blob/main/README.md)
 > Executed **180 comprehensive test cases,** identifying **24 critical defects** and a **13.3% failure rate in critical flows.** Evaluated session stability and user retention risks to ensure a high-quality pre-release state.
 
 * **Mobile Resilience:** Validated application behavior through Interruption Testing (calls, low battery, multitasking) and network transitions (WiFi/5G/Airplane Mode) to ensure data integrity in real-world scenarios.
