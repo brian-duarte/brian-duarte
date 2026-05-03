@@ -135,7 +135,17 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### 🛢️  [DataBase Testing]()
+### 🗄️ [SQL Database Audit & Data Integrity]()
+
+> **Impact:** Execution of a comprehensive database audit through advanced queries, identifying inconsistencies in transactional records and ensuring referential integrity of the order management system.
+
+* **Complex Data Analysis:** Implementation of multi-table queries using **JOINs (Inner, Left, Right)** and aggregation functions to validate consistency between users, products, and orders.
+
+* **Integrity Validation:** Verification of constraints, primary keys, and foreign keys to prevent data duplication and ensure the correct persistence of financial information.
+
+* **Optimization and Cleaning:** Identification of orphan records and null values through advanced filtering **(WHERE, GROUP BY, HAVING),** improving data quality for decision-making.
+
+🚀 **Technologies:** `PostgreSQL` `DBeaver` `Data Integrity` `Complex Queries` `Database Audit`
 
 
 <!--
