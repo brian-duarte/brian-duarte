@@ -135,7 +135,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### 🗄️ [SQL Database Audit & Data Integrity]()
+### 🗄️ [SQL Data Analysis: Chicago Taxi Database()
 
 > **Impact:** Execution of a comprehensive database audit through advanced queries, identifying inconsistencies in transactional records and ensuring referential integrity of the order management system.
 
