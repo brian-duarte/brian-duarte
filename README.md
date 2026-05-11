@@ -137,15 +137,18 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 ### 🗄️ [SQL Data Analysis: Chicago Taxi Database](https://github.com/brian-duarte/Qa-Project-6-Data-Base-Taxi-Chicago)
 
-> **Impact:** Execution of a comprehensive database audit through advanced queries, identifying inconsistencies in transactional records and ensuring referential integrity of the order management system.
+> **Impact:** Performed SQL-based analysis on Chicago taxi trip data to extract operational insights, evaluate fleet distribution, classify weather conditions, and rank taxi companies by trip activity..
 
-* **Complex Data Analysis:** Implementation of multi-table queries using **JOINs (Inner, Left, Right)** and aggregation functions to validate consistency between users, products, and orders.
+* **Fleet Analysis:** Queried taxi registration data to identify total active vehicles and analyze fleet size distribution across companies.
 
-* **Integrity Validation:** Verification of constraints, primary keys, and foreign keys to prevent data duplication and ensure the correct persistence of financial information.
+* **Business Insights:** Used aggregation functions (`COUNT`, `GROUP BY`, `HAVING`) to identify companies with smaller fleets and compare operational scale.
 
-* **Optimization and Cleaning:** Identification of orphan records and null values through advanced filtering **(WHERE, GROUP BY, HAVING),** improving data quality for decision-making.
+* **Weather Classification:** Applied `CASE WHEN` logic to categorize weather conditions as **Good** or **Bad** for ride analysis.
+  
+* **Trip Volume Analysis:** Built JOIN queries to rank taxi companies by completed trips during selected time periods.
 
-🚀 **Technologies:** `PostgreSQL` `DBeaver` `Data Integrity` `Complex Queries` `Database Audit`
+
+🚀 **Technologies:** `PostgreSQL` `DBeaver` `SQL` `JOINs` `CASE WHEN` `GROUP BY`
 
 
 <!--
