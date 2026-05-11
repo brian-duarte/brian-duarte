@@ -135,7 +135,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### 🗄️ [SQL Data Analysis: Chicago Taxi Database]()
+### 🗄️ [SQL Data Analysis: Chicago Taxi Database](https://github.com/brian-duarte/Qa-Project-6-Data-Base-Taxi-Chicago)
 
 > **Impact:** Execution of a comprehensive database audit through advanced queries, identifying inconsistencies in transactional records and ensuring referential integrity of the order management system.
 
