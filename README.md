@@ -150,6 +150,28 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 🚀 **Technologies:** `PostgreSQL` `DBeaver` `SQL` `JOINs` `CASE WHEN` `GROUP BY`
 
+---
+
+<br>
+
+### [python-automation](https://github.com/brian-duarte/qa-project-Urban-Grocers-app-es)
+
+> **Impact:** Performed SQL-based analysis on Chicago taxi trip data to extract operational insights, evaluate fleet distribution, classify weather conditions, and rank taxi companies by trip activity..
+
+* **Fleet Analysis:** Queried taxi registration data to identify total active vehicles and analyze fleet size distribution across companies.
+
+* **Business Insights:** Used aggregation functions (`COUNT`, `GROUP BY`, `HAVING`) to identify companies with smaller fleets and compare operational scale.
+
+* **Weather Classification:** Applied `CASE WHEN` logic to categorize weather conditions as **Good** or **Bad** for ride analysis.
+  
+* **Trip Volume Analysis:** Built JOIN queries to rank taxi companies by completed trips during selected time periods.
+
+
+🚀 **Technologies:** `PostgreSQL` `DBeaver` `SQL` `JOINs` `CASE WHEN` `GROUP BY`
+
+
+
+
 
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
