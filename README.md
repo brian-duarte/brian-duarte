@@ -156,7 +156,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 ### 🤖 [Python-Automation](https://github.com/brian-duarte/qa-project-Urban-Grocers-app-es)
 
-> **Impact:** Test automation for kit creation in the **Urban Grocers application,** implementing API testing with **token authentication** and validation of critical fields. Achieved full integration with **REST endpoints** for user creation and **kit management.**
+> Test automation for kit creation in the **Urban Grocers application,** implementing API testing with **token authentication** and validation of critical fields. Achieved full integration with **REST endpoints** for user creation and **kit management.**
 
 * **User Automation & Authentication:** Implemented a complete user creation workflow via the `POST /api/v1/users` endpoint, extracting the authToken and validating credentials (`firstName`, `phone`, `address`) to ensure data integrity during authentication.
 
