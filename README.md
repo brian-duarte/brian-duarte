@@ -154,20 +154,19 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### [python-automation](https://github.com/brian-duarte/qa-project-Urban-Grocers-app-es)
+### 🤖 [Python-Automation](https://github.com/brian-duarte/qa-project-Urban-Grocers-app-es)
 
-> **Impact:** Performed SQL-based analysis on Chicago taxi trip data to extract operational insights, evaluate fleet distribution, classify weather conditions, and rank taxi companies by trip activity..
+> **Impact:** Test automation for kit creation in the **Urban Grocers application,** implementing API testing with **token authentication** and validation of critical fields. Achieved full integration with **REST endpoints** for user creation and **kit management.**
 
-* **Fleet Analysis:** Queried taxi registration data to identify total active vehicles and analyze fleet size distribution across companies.
+* **User Automation & Authentication:** Implemented a complete user creation workflow via the `POST /api/v1/users` endpoint, extracting the authToken and validating credentials (`firstName`, `phone`, `address`) to ensure data integrity during authentication.
 
-* **Business Insights:** Used aggregation functions (`COUNT`, `GROUP BY`, `HAVING`) to identify companies with smaller fleets and compare operational scale.
+* **Kit Creation Validation:** Conducted exhaustive testing of the `POST /api/v1/kits` endpoint, specifically validating the "name" field as a critical point, and verifying response structures, `productsList`, and `productsCount` to guarantee correct kit creation with card association.
 
-* **Weather Classification:** Applied `CASE WHEN` logic to categorize weather conditions as **Good** or **Bad** for ride analysis.
-  
-* **Trip Volume Analysis:** Built JOIN queries to rank taxi companies by completed trips during selected time periods.
+* **Bearer Token Management & Security:** mplemented Bearer token authentication in `HTTP headers`, establishing secure credential handling and permission validation for protected operations to ensure only `authenticated users` can create and manage kits.
 
 
-🚀 **Technologies:** `PostgreSQL` `DBeaver` `SQL` `JOINs` `CASE WHEN` `GROUP BY`
+🚀 **Technologies:** `Python` `Pytest` `REST API` `HTTP GET/POST` `Bearer Token`
+
 
 
 
