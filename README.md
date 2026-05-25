@@ -110,7 +110,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 * **API Validation & REST:**  Validated RESTful endpoints ensuring correct data exchange, HTTP status codes, and enforcement of business rules across backend services.
 * **Postman Test Execution:** Designed and executed API requests (GET, POST, PUT, DELETE) using Postman, managing environments.
 * **Test Design Strategy:** Designed structured test cases using Equivalence Partitioning and Boundary Value Analysis, uncovering defects in edge cases and invalid input handling.
-* **Defect Reporting & Debugging Support:** Documented high-quality bug reports including cURL commands, payloads, and response evidence, accelerating issue reproduction and resolution by developers.
+* **Defect Reporting & Debugging Support:** Documented bug reports including cURL commands, payloads, and response evidence, accelerating issue reproduction and resolution by developers.
   
 **🚀 Technologies:** `Postman` `REST API` `JSON` `HTTP Protocol` `cURL` `API Test Design`
 
