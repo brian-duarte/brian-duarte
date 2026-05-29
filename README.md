@@ -162,16 +162,28 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 * **API Validation:** Detection of status code inconsistencies `(201 vs 400)` when handling invalid data and malicious scripts.
   
-• **Robustness Analysis:** Boundary testing `(512+ characters)` and data integrity validation on the `/api/v1/kits endpoint.`
+* **Robustness Analysis:** Boundary testing `(512+ characters)` and data integrity validation on the `/api/v1/kits endpoint.`
 
 
 
 🚀 **Technologies:** `Python` `Pytest` `REST API` `HTTP GET/POST` `Bearer Token`
 
 
+---
 
+<br>
 
+### [🧪 Selenium - Automatización Web](https://github.com/brian-duarte/qa-project-Urban-Routes-es)
 
+> UI test automation for the Urban Routes web application, simulating the complete taxi request flow. Critical functionality was validated through **9 test cases,** of which only **5 passed (55.6%),** resulting in **4 failed tests (44.4%).**
+
+* **User Flow Simulation:** Automation of taxi requests, from address selection to order confirmation and payment.
+  
+* **User Interface (UI) Validation:** Verification of proper interaction with page elements, including input fields, buttons, and selections.
+
+* **Page Object Model (POM) Implementation:** Design of maintainable and scalable tests by separating page elements from test logic.
+
+🚀 **Technologies:** `Selenium WebDriver` `Page Object Model (POM)` `QA Automation` `Pytest` 
 
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
