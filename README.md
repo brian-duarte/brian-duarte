@@ -185,6 +185,22 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 🚀 **Technologies:** `Selenium WebDriver` `Page Object Model (POM)` `QA Automation` `Pytest` 
 
+
+<br>
+
+### [📱 Urban Scooter End-to-End Testing]()
+
+> Designed and executed comprehensive API validation tests for courier management services, applying boundary value analysis, equivalence partitioning, and negative testing techniques.
+**Designed and executed 320+ functional,** **API,** and **mobile test** scenarios, leveraging **Boundary Value Analysis,** **Equivalence Partitioning,** and **negative testing** to identify **50+ defects** prior to release.
+
+* **API Validation:** Validated REST API endpoints using positive and negative test scenarios, verifying request handling, HTTP responses, and business rule compliance.
+* **Test Design:** Applied Boundary Value Analysis (BVA) and Equivalence Partitioning techniques to evaluate username and password constraints across valid and invalid data classes.
+* **Mobile & Web Synchronization:** Validated real-time synchronization between backend services, web interfaces, and mobile applications, ensuring data integrity and a consistent user experience across platforms.
+* **Defect Detection & Documentation:** Reported 50+ defects across web, mobile, and API layers in Jira, providing reproducible steps, logs, and validation evidence to support issue investigation and resolution.
+
+**🚀 Technologies:** `Postman` `REST API` `JSON` `Android Studio` `Jira` `Boundary Value Analysis` `Equivalence Partitioning`
+
+
 <!--
 **brian772233-code/brian772233-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
