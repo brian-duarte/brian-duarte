@@ -189,7 +189,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### [📱 Urban Scooter End-to-End Testing]()
+### [📱 Urban Scooter End-to-End Testing](https://github.com/brian-duarte/Urban-Scooter-End-to-End-Testing)
 
 > Designed and executed comprehensive API validation tests for courier management services, applying boundary value analysis, equivalence partitioning, and negative testing techniques.
 **Designed and executed 320+ functional,** **API,** and **mobile test** scenarios, leveraging **Boundary Value Analysis,** **Equivalence Partitioning,** and **negative testing** to identify **50+ defects** prior to release.
