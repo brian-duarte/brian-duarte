@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="68" />
 </p>
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio (TripleTen) 
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpwcDBlbmFxNm16aDQzZ2YwOHprNm5maHBka2pla2h2dXUwa3hjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="48px">  QA Projects Portfolio
 
 ---
 <br>
