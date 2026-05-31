@@ -185,6 +185,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 🚀 **Technologies:** `Selenium WebDriver` `Page Object Model (POM)` `QA Automation` `Pytest` 
 
+---
 
 <br>
 
