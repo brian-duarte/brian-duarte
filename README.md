@@ -197,6 +197,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 * **API Validation:** Validated REST API endpoints using positive and negative test scenarios, verifying request handling, HTTP responses, and business rule compliance.
 * **Test Design:** Applied Boundary Value Analysis (BVA) and Equivalence Partitioning techniques to evaluate username and password constraints across valid and invalid data classes.
 * **Mobile & Web Synchronization:** Validated real-time synchronization between backend services, web interfaces, and mobile applications, ensuring data integrity and a consistent user experience across platforms.
+* **Database Validation (PostgreSQL):** Performed direct SQL queries to validate that orders were correctly created, stored, and updated in the backend, ensuring perfect synchronization between UI and Database.
 * **Defect Detection & Documentation:** Reported 50+ defects across web, mobile, and API layers in Jira, providing reproducible steps, logs, and validation evidence to support issue investigation and resolution.
 
 **🚀 Technologies:** `Postman` `PostgreSQL` `REST API` `JSON` `Android Studio` `Jira` `Boundary Value Analysis` `Equivalence Partitioning`
