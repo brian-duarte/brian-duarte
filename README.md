@@ -199,7 +199,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 * **Mobile & Web Synchronization:** Validated real-time synchronization between backend services, web interfaces, and mobile applications, ensuring data integrity and a consistent user experience across platforms.
 * **Defect Detection & Documentation:** Reported 50+ defects across web, mobile, and API layers in Jira, providing reproducible steps, logs, and validation evidence to support issue investigation and resolution.
 
-**🚀 Technologies:** `Postman` `REST API` `JSON` `Android Studio` `Jira` `Boundary Value Analysis` `Equivalence Partitioning`
+**🚀 Technologies:** `Postman` `PostgreSQL` `REST API` `JSON` `Android Studio` `Jira` `Boundary Value Analysis` `Equivalence Partitioning`
 
 
 <!--
