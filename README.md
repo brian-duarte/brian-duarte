@@ -183,7 +183,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 * **Page Object Model (POM) Implementation:** Design of maintainable and scalable tests by separating page elements from test logic.
 
-🚀 **Technologies:** `Selenium WebDriver` `Page Object Model (POM)` `QA Automation` `Pytest` 
+🚀 **Technologies:** `Selenium WebDriver` `Page Object Model (POM)` `QA Automation` `Pytest` `ChromeDriver`  `CSS Selector` `XPath` `HTML` 
 
 ---
 
