@@ -173,7 +173,7 @@ Identified defects that allowed invalid configurations, directly violating busin
 
 <br>
 
-### [🧪 Selenium - Automatización Web](https://github.com/brian-duarte/qa-project-Urban-Routes-es)
+### [🧪 Selenium - Web Automation](https://github.com/brian-duarte/qa-project-Urban-Routes-es)
 
 > UI test automation for the Urban Routes web application, simulating the complete taxi request flow. Critical functionality was validated through **9 test cases,** of which only **5 passed (55.6%),** resulting in **4 failed tests (44.4%).**
 
